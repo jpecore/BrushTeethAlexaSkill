@@ -24,7 +24,7 @@
  * 
  * /** App ID for the skill
  */
-var APP_ID = 'amzn1.ask.skill.f8cb38e6-2922-4220-9dac-8616627af883'; // brush teeth
+var APP_ID = ''; // brush teeth
  
 
 /**
@@ -66,8 +66,8 @@ var FACTS = [{"time":5,"Text":"The enamel on the top surface on your tooth is th
              {"time":5,"Text":"Don't stop brushing yet. "},
              {"time":5,"Text":"Keep going. Brushing can reduce your chance of tooth decay by 25 percent."},
              {"time":5,"Text":"In 1866, Lucy Beaman Hobbs became the first licensed female dentist. "},
-             {"time":8,"Text":"Humans have only two sets of teeth in their entire lifetime—baby teeth and permanent teeth. Once you have your permanent teeth, make sure you take good care of them.. "},
-             {"time":5,"Text":"No two people have the same set of teeth—your teeth are as unique as your fingerprint. "},
+             {"time":8,"Text":"Humans have only two sets of teeth in their entire lifetimeâ€”baby teeth and permanent teeth. Once you have your permanent teeth, make sure you take good care of them.. "},
+             {"time":5,"Text":"No two people have the same set of teethâ€”your teeth are as unique as your fingerprint. "},
              {"time":5,"Text":"Many diseases are linked to your oral health. So be sure to brush every day. "},
              {"time":5,"Text":"Brush each surface,  outside, tops, and inside too. "},
              {"time":8,"Text":"Most adults have 32 teeth. Though miniscule in size comparison, mosquitos have about 47 teeth, and snails have about 25 teeth . . . on their tongues. "},
