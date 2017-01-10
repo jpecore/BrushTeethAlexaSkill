@@ -1,0 +1,8 @@
+brushTeethIntent open
+brushTeethIntent start
+brushTeethIntent to start brushing
+brushTeethIntent to begin brusing
+brushTeethIntent to start timer
+brushTeethIntent to begin timer
+brushTeethIntent to start brushing timer
+brushTeethIntent to begin brushing timer
